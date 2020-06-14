@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CovidApp</string>
+    <string name="about_covid">Coronavirus disease is an infectious disease caused by a newly discovered coronavirus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.</string>
 </resources>
